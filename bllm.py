@@ -74,4 +74,3 @@ print("\nPositional Embeddings shape:\n", pos_embeddings.shape)
 input_embeddings = token_embeddings + pos_embeddings
 print("\nInput Embeddings shape:\n", input_embeddings.shape)
 
-
